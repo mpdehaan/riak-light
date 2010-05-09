@@ -1,6 +1,6 @@
 = riak_light
 
-* http://github.com/mpdehaan/riak_light
+* http://github.com/mpdehaan/riak-light
 
 == DESCRIPTION:
 
